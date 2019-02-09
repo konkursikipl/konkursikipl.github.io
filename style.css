@@ -179,6 +179,13 @@ header
 {
 	text-align: center;
 	float: center;
+	position: center;
+	background-color: white;
+	font-family: "Roboto", sans-serif;
+	text-position: center;
+	text-decoration: none;
+	text-align: center;
+}
 }
 
 
