@@ -138,6 +138,7 @@ header
 {
 	background-color: white;
 	text-align: center;
+	float: center;
 }
 
 .kon
@@ -185,7 +186,6 @@ header
 	text-position: center;
 	text-decoration: none;
 	text-align: center;
-}
 }
 
 
